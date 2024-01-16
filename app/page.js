@@ -4,7 +4,7 @@ export default function Page() {
     return (
         <main>
           <h1> CPRG306 Demo </h1>
-          <Link href="/week2">  </Link>
+          <Link href="/week2"> click here </Link>
 
         </main>
     );
